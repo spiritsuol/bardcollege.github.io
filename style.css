@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(0, 255, 255);
+    background-color: rgb(12, 0, 255);
     color: linen;
     font-size: 150%;
     line-height: 1.4;
@@ -46,7 +46,7 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: black;
     font-size: 110%;
     background:black;
     padding: 4px;
