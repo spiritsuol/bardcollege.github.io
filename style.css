@@ -54,16 +54,16 @@ img{
 }
 
 .button {
-    background: white;
+    background: blue;
     font-size: 110%;
-    color:gray;
+    color:red;
     padding: 4px;
-    border:2px solid white;
+    border:2px solid blue
 }
 
 .redacted{
-    background-color: rgb(215, 206, 199);
-    color:  rgb(215, 206, 199);
+    background-color: rgb(100, 14, 0);
+    color:  rgb(0, 11, 100);
 }
 
 .half{
