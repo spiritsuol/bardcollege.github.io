@@ -215,6 +215,11 @@ var rules = {
     "What incident are you thinking of?",
     "Really--always?",
      ],
+  "~*x Sing me a song ~*y": [
+    "fly me to the moon and let me sing among the stars",
+    "Dream a little dream of me",
+    "I'm make a brand new start of it in old New York",
+     ],
   "~*x Juicebox ~*y": [
     "What is your favorite juice ~y?",
     "the apple is round?",
