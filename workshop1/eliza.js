@@ -214,6 +214,11 @@ var rules = {
     "When?",
     "What incident are you thinking of?",
     "Really--always?",
+     ],
+  "~*x Juicebox ~*y": [
+    "What is your favorite juice ~y?",
+    "the apple is round?",
+    "I'm not sure I understand did you mean... ~y?",
   ],
   "~*x what ~*y": [
     "Why do you ask?",
