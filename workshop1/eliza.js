@@ -216,7 +216,20 @@ var rules = {
     "Really--always?",
      ],
   "~*x Sing me a song ~*y": [
-    "fly me to the moon and let me sing among the stars",
+    "Fly me to the moon
+Let me play among the stars
+Let me see what spring is like
+On a-Jupiter and Mars
+In other words, hold my hand
+In other words, baby, kiss me
+
+Fill my heart with song
+And let me sing for ever more
+You are all I long for
+All I worship and adore
+In other words, please be true
+In other words, I love you
+",
     "Dream a little dream of me",
     "I'm make a brand new start of it in old New York",
      ],
